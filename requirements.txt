@@ -1,0 +1,7 @@
+flask
+werkzeug
+opencv-python
+mediapipe
+numpy
+openai
+transformers
